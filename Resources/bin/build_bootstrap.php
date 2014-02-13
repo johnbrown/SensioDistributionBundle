@@ -1,4 +1,4 @@
-#!/usr/bin/env php
+#!/opt/php53/bin/php
 <?php
 
 /*
